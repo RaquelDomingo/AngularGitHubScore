@@ -1,3 +1,6 @@
+<img width="766" alt="github score" src="https://user-images.githubusercontent.com/29441324/31867870-80cde8d2-b74b-11e7-8a71-490bd024b3b9.png">
+
+
 # GitHubScore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
