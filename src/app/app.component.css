@@ -1,0 +1,72 @@
+
+*{
+  font-weight: bold;
+	font-family: ABeeZee;
+
+}
+h1{
+  margin: 20px 0px 0px 0px;
+  padding: 0px 0px 0px 0px;
+  width: 300px;
+}
+h2{
+  margin: 0px 0px 20px 0px;
+
+}
+p{
+  margin: 0px 0px 20px 0px;
+  font-size: 30px;
+}
+#leftBit{
+    display: inline-block;
+    height: 100px;
+    width: 323px;
+    text-align: center;
+    margin: 0px 0px 0px 0px;
+}
+  #rightBit{
+    display: inline-block;
+    height: 100px;
+    width: 323px;
+    text-align: center;
+    vertical-align: top;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    margin: 0px 0px 40px 40px;
+  }
+  form{
+    display: block;
+    width: 1000px;
+    height: 200px;
+    margin: 0 auto;
+  }
+  fieldset{
+    display: block;
+    width: 750px;
+    height: 220px;
+    margin: 0 auto;
+  }
+  button{
+    margin-top: 40px;
+    display: block;
+    box-shadow: 5px 5px 5px black;
+    height: 20px;
+    width: 298px;
+  }
+  label, input{
+    margin-top: 20px;
+    display: inline-block;
+    width: 145px;
+  }
+  #needswork{
+    color: red;
+  }
+  #decentstart{
+    color: orange;
+  }
+  #doinggood{
+    color: black;
+  }
+  #great{
+    color: green;
+  }
